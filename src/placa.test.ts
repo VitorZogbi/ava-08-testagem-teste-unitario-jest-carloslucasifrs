@@ -1,4 +1,4 @@
-import { placa } from './placa.ts'
+import { placa } from './placa'
 
 // 0 = A
 // 1 = B
